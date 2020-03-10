@@ -5,6 +5,6 @@ mondrian (https://ferranmora1996.github.io/Mondrian/)
 Variació Mondrian (https://ferranmora1996.github.io/Excercici5/)
 
 2n Evaluació
-[Portfolio](http://127.0.0.1:55806/index.html#contact)
+[Portfolio]()
 [Llapis] (https://ferranmora1996.github.io/Llapis/)
 [animal] (https://ferranmora1996.github.io/animal/)
