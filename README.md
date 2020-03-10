@@ -3,3 +3,5 @@
 web de artista (https://ferranmora1996.github.io/3/)
 mondrian (https://ferranmora1996.github.io/Mondrian/)
 Variació Mondrian (https://ferranmora1996.github.io/Excercici5/)
+2n Evaluació
+[Portfolio](https://ferranmora1996.github.io/portfolio/)
